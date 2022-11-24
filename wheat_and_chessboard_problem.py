@@ -25,11 +25,12 @@ def format_number_grains(grains):
 
 def main():
     max_squares = 64
-    current_grains = 0
+    total_grains = 0
 
     for current_square in range(max_squares):
-        current_grains += (2 ** current_square)
-        print(f'{current_grains} grains, weighing:', format_number_grains(current_grains))
+        grains_on_this_square = (2 ** current_square)
+        total_grains += grains_on_this_square
+        print(f'Added {grains_on_this_square} grains for a total of {total_grains} grains, weighing:', format_number_grains(total_grains))
 
 
 if __name__ == '__main__':
