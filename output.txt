@@ -1,0 +1,64 @@
+Added 1 grains for a total of 1 grains, weighing: 0.0001 kg
+Added 2 grains for a total of 3 grains, weighing: 0.0002 kg
+Added 4 grains for a total of 7 grains, weighing: 0.0005 kg
+Added 8 grains for a total of 15 grains, weighing: 0.001 kg
+Added 16 grains for a total of 31 grains, weighing: 0.002 kg
+Added 32 grains for a total of 63 grains, weighing: 0.0041 kg
+Added 64 grains for a total of 127 grains, weighing: 0.0082 kg
+Added 128 grains for a total of 255 grains, weighing: 0.0165 kg
+Added 256 grains for a total of 511 grains, weighing: 0.0331 kg
+Added 512 grains for a total of 1023 grains, weighing: 0.0663 kg
+Added 1024 grains for a total of 2047 grains, weighing: 0.1327 kg
+Added 2048 grains for a total of 4095 grains, weighing: 0.2654 kg
+Added 4096 grains for a total of 8191 grains, weighing: 0.5308 kg
+Added 8192 grains for a total of 16383 grains, weighing: 1.0618 kg
+Added 16384 grains for a total of 32767 grains, weighing: 2.1236 kg
+Added 32768 grains for a total of 65535 grains, weighing: 4.2472 kg
+Added 65536 grains for a total of 131071 grains, weighing: 8.4946 kg
+Added 131072 grains for a total of 262143 grains, weighing: 16.9892 kg
+Added 262144 grains for a total of 524287 grains, weighing: 33.9784 kg
+Added 524288 grains for a total of 1048575 grains, weighing: 67.9569 kg
+Added 1048576 grains for a total of 2097151 grains, weighing: 135.9139 kg
+Added 2097152 grains for a total of 4194303 grains, weighing: 271.8278 kg
+Added 4194304 grains for a total of 8388607 grains, weighing: 543.6557 kg
+Added 8388608 grains for a total of 16777215 grains, weighing: 1.09 tonnes
+Added 16777216 grains for a total of 33554431 grains, weighing: 2.17 tonnes
+Added 33554432 grains for a total of 67108863 grains, weighing: 4.35 tonnes
+Added 67108864 grains for a total of 134217727 grains, weighing: 8.7 tonnes
+Added 134217728 grains for a total of 268435455 grains, weighing: 17.4 tonnes
+Added 268435456 grains for a total of 536870911 grains, weighing: 34.79 tonnes
+Added 536870912 grains for a total of 1073741823 grains, weighing: 69.59 tonnes
+Added 1073741824 grains for a total of 2147483647 grains, weighing: 139.18 tonnes
+Added 2147483648 grains for a total of 4294967295 grains, weighing: 278.35 tonnes
+Added 4294967296 grains for a total of 8589934591 grains, weighing: 556.7 tonnes
+Added 8589934592 grains for a total of 17179869183 grains, weighing: 1113.41 tonnes
+Added 17179869184 grains for a total of 34359738367 grains, weighing: 2226.81 tonnes
+Added 34359738368 grains for a total of 68719476735 grains, weighing: 4453.63 tonnes
+Added 68719476736 grains for a total of 137438953471 grains, weighing: 8907.26 tonnes
+Added 137438953472 grains for a total of 274877906943 grains, weighing: 17814.51 tonnes
+Added 274877906944 grains for a total of 549755813887 grains, weighing: 35629.02 tonnes
+Added 549755813888 grains for a total of 1099511627775 grains, weighing: 1.37 titanics
+Added 1099511627776 grains for a total of 2199023255551 grains, weighing: 2.74 titanics
+Added 2199023255552 grains for a total of 4398046511103 grains, weighing: 5.48 titanics
+Added 4398046511104 grains for a total of 8796093022207 grains, weighing: 1.56 empire state buildings
+Added 8796093022208 grains for a total of 17592186044415 grains, weighing: 3.12 empire state buildings
+Added 17592186044416 grains for a total of 35184372088831 grains, weighing: 6.25 empire state buildings
+Added 35184372088832 grains for a total of 70368744177663 grains, weighing: 12.49 empire state buildings
+Added 70368744177664 grains for a total of 140737488355327 grains, weighing: 1 hoover dams
+Added 140737488355328 grains for a total of 281474976710655 grains, weighing: 3 hoover dams
+Added 281474976710656 grains for a total of 562949953421311 grains, weighing: 6 hoover dams
+Added 562949953421312 grains for a total of 1125899906842623 grains, weighing: 11 hoover dams
+Added 1125899906842624 grains for a total of 2251799813685247 grains, weighing: 22 hoover dams
+Added 2251799813685248 grains for a total of 4503599627370495 grains, weighing: 2 Chineese coal reserves for 2016
+Added 4503599627370496 grains for a total of 9007199254740991 grains, weighing: 4 Chineese coal reserves for 2016
+Added 9007199254740992 grains for a total of 18014398509481983 grains, weighing: 2 x global wheet production for 2020
+Added 18014398509481984 grains for a total of 36028797018963967 grains, weighing: 3 x global wheet production for 2020
+Added 36028797018963968 grains for a total of 72057594037927935 grains, weighing: 6 x global wheet production for 2020
+Added 72057594037927936 grains for a total of 144115188075855871 grains, weighing: 12 x global wheet production for 2020
+Added 144115188075855872 grains for a total of 288230376151711743 grains, weighing: 25 x global wheet production for 2020
+Added 288230376151711744 grains for a total of 576460752303423487 grains, weighing: 49 x global wheet production for 2020
+Added 576460752303423488 grains for a total of 1152921504606846975 grains, weighing: 98 x global wheet production for 2020
+Added 1152921504606846976 grains for a total of 2305843009213693951 grains, weighing: 197 x global wheet production for 2020
+Added 2305843009213693952 grains for a total of 4611686018427387903 grains, weighing: 393 x global wheet production for 2020
+Added 4611686018427387904 grains for a total of 9223372036854775807 grains, weighing: 787 x global wheet production for 2020
+Added 9223372036854775808 grains for a total of 18446744073709551615 grains, weighing: 1573 x global wheet production for 2020
